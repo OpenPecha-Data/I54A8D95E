@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG25110
   title: ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་སྒོམ་རིམ་གསལ་བར་བྱེད་པའི་ལེགས་བཤད་ཟླ་བའི་འོད་ཟེར།
-  volume: ''
+  volume:
+    8b0154987da6471fb01854da3cef4009:
+      image_group_id: I1KG25112
+      title: Volume 1 of nges don phyag rgya chen po'i sgom rim gsal bar byed pa'i
+        legs bshad zla ba'i 'od zer/
+      volume_number: 1
+      total_pages: 538
   author: ''
+ebook_metadata:
+  title: ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་སྒོམ་རིམ་གསལ་བར་བྱེད་པའི་ལེགས་བཤད་ཟླ་བའི་འོད་ཟེར།
+  author: ''
+  sku: P007051
+  cover: cover.jpg
+  layers:
+  - pagination
