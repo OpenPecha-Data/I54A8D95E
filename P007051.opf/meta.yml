@@ -1,16 +1,17 @@
-id: opecha:P007051
+id: P007051
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG25110
   title: ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་སྒོམ་རིམ་གསལ་བར་བྱེད་པའི་ལེགས་བཤད་ཟླ་བའི་འོད་ཟེར།
-  volume:
+  author: ''
+  volumes:
     8b0154987da6471fb01854da3cef4009:
       image_group_id: I1KG25112
       title: Volume 1 of nges don phyag rgya chen po'i sgom rim gsal bar byed pa'i
         legs bshad zla ba'i 'od zer/
       volume_number: 1
       total_pages: 538
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་སྒོམ་རིམ་གསལ་བར་བྱེད་པའི་ལེགས་བཤད་ཟླ་བའི་འོད་ཟེར།
   author: ''
